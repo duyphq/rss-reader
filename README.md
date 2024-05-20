@@ -4,9 +4,6 @@ The mobile application reads the rss file. When linked to the google account. Us
 
 With a friendly and clear interface, users do not need to spend too much time getting used to the application 
 
-# Interface
-<img src="https://mshop4girls.000webhostapp.com/Screen1.jpg"  height="500" wight="500" /> <img src="https://mshop4girls.000webhostapp.com/Screen2.jpg"  height="500" wight="500"/>
-
 # Requirements
 - Android 4.1.3 - a minimum supported version
 - Google Play services 4.3.10
@@ -16,4 +13,4 @@ With a friendly and clear interface, users do not need to spend too much time ge
 # Contact
 Name: Phạm Huỳnh Quốc Duy
 
-Email: quocduy02082k@gmail.com
+Email: duyhqpham@gmail.com
